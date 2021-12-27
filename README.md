@@ -3,7 +3,7 @@
   >I am currently studying at Computer Science and Engineering at Sylhet Engineering College
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chowdhurynaseeh)](https://github.com/Chowdhurynaseeh)
+>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chowdhurynaseeh)](https://github.com/Chowdhurynaseeh)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chowdhurynaseeh&layout=compact)](https://github.com/Chowdhurynaseeh)
 
   
 ### Programming languages I'm familiar with
@@ -28,4 +28,4 @@
 ### CMS
   - Wordpress
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chowdhurynaseeh&layout=compact)](https://github.com/Chowdhurynaseeh)
+
