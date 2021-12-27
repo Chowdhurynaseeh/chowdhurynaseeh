@@ -7,24 +7,24 @@
 
   
 ### Programming languages I'm familiar with
-  .  C++
-  ⋅⋅*Javascript(ES5/ES6)
-  ⋅⋅*TypeScript
-  ⋅⋅*Java
-  ⋅⋅*PHP
+  - C++
+  - Javascript(ES5/ES6)
+  - TypeScript
+  - Java
+  - PHP
 
 ### FrameWork
-  ⋅⋅*Angular
-  ⋅⋅*React
-  ⋅⋅*Vue
-  ⋅⋅*Laravel
-  ⋅⋅*Bootstrap
+  - Angular
+  - React
+  - Vue
+  - Laravel
+  - Bootstrap
 
 ### Database
-  ⋅⋅*MySQL
-  ⋅⋅*Oracle
-  ⋅⋅*MongoDB
+  - MySQL
+  - Oracle
+  - MongoDB
   
 ### CMS
-  ⋅⋅*Wordpress
+  - Wordpress
 
