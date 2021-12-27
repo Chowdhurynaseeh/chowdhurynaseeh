@@ -7,7 +7,7 @@
 
   
 ### Programming languages I'm familiar with
-  ⋅⋅*C++
+  .  C++
   ⋅⋅*Javascript(ES5/ES6)
   ⋅⋅*TypeScript
   ⋅⋅*Java
