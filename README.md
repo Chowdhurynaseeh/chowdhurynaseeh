@@ -2,28 +2,27 @@
   >I am Abdullah Al Naseeh Chowdhury, a programming enthusiast.
   >I am currently studying at Computer Science and Engineering at Sylhet Engineering College
   
-  
-##Programming languages I'm familiar with
-  .C++
-  .Javascript(ES5/ES6)
-  .TypeScript
-  .Java
-  .PHP
+## Programming languages I'm familiar with
+  . C++
+  . Javascript(ES5/ES6)
+  . TypeScript
+  . Java
+  . PHP
 
-##FrameWork
-  .Angular
-  .React
-  .Vue
-  .Laravel
-  .Bootstrap
+## FrameWork
+  . Angular
+  . React
+  . Vue
+  . Laravel
+  . Bootstrap
 
-##Database
-  .MySQL
-  .Oracle
-  .MongoDB
+## Database
+  . MySQL
+  . Oracle
+  . MongoDB
   
-##CMS
-  .Wordpress
+## CMS
+  . Wordpress
 
 <!--
 **Chowdhurynaseeh/chowdhurynaseeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
