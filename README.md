@@ -28,5 +28,3 @@
 ### CMS
   - Wordpress
 
-### Connect with me
-[![johannchopin's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/:template/:id)](https://github.com/johannchopin/stackoverflow-readme-profile)
