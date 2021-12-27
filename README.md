@@ -1,6 +1,10 @@
 ### Hi there 👋
   >I am Abdullah Al Naseeh Chowdhury, a programming enthusiast.
   >I am currently studying at Computer Science and Engineering at Sylhet Engineering College
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chowdhurynaseeh)](https://github.com/anuraghazra/github-readme-stats)
+
   
 ### Programming languages I'm familiar with
   ⋅⋅*C++
