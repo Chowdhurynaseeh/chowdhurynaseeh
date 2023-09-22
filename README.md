@@ -12,6 +12,7 @@
   - TypeScript
   - Java
   - PHP
+  - Assembly Language
 
 ### FrameWork
   - Angular
