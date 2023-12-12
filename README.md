@@ -7,23 +7,18 @@
 
   
 ### Programming languages I'm familiar with
-  - C++
   - Javascript(ES5/ES6)
   - TypeScript
   - Java
   - PHP
-  - Assembly Language
 
 ### FrameWork
-  - Angular
-  - React
   - Vue
   - Laravel
   - Bootstrap
 
 ### Database
   - MySQL
-  - Oracle
   - MongoDB
   
 ### CMS
