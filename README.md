@@ -9,7 +9,6 @@
 ### Programming languages I'm familiar with
   - Javascript(ES5/ES6)
   - TypeScript
-  - Java
   - PHP
 
 ### FrameWork
